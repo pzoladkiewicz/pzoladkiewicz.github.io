@@ -8,3 +8,12 @@ tags: [servers,dell,hp]
 # Pierwszy akapit
 
 jakiś tekst
+
+* jeden
+* dwa
+* trzy
+
+```sql
+SELECT *
+FROM table
+```
