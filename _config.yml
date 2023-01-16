@@ -19,7 +19,7 @@ timezone: Europe/Warsaw
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: HomeLab Docs                          # the main title
+title: HomeLab Docs and more                         # the main title
 
 tagline: A Doc site for my home lab and more   # it will display as the sub-title
 
