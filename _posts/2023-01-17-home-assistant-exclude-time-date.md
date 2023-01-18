@@ -2,7 +2,7 @@
 title: Exclude Time & Date (ISO)
 date: 2023-01-17 12:36
 categories: [home-assistant]
-tags: [tips]
+tags: [home-assistant,tips]
 ---
 
 # Q: How to exclude Time &amp; Date from the Logbook?
