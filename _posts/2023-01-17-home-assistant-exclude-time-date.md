@@ -5,7 +5,7 @@ categories: [home-assistant]
 tags: [home-assistant,tips]
 ---
 
-# Q: How to exclude Time &amp; Date from the Logbook?
+# Q: How to exclude Time &amp; Date (ISO) from the Logbook?
 
 We can exclude entities from the [logbook](https://home-assistant.io/components/logbook/) or better exlude them from the [recorder](https://www.home-assistant.io/integrations/recorder/), so your database won't be spamed with them.
 
