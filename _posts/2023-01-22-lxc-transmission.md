@@ -8,3 +8,5 @@ tags: [transmission,lxc]
 ```
 nano /etc/transmission-daemon/settings.json
 ```
+
+https://github.com/transmission/transmission/blob/main/docs/Configuration-Files.md
