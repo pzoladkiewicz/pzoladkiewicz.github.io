@@ -25,3 +25,11 @@ disable HA service if you not use
 ```
 Double check that Trim is enabled on the drive.
 ```
+
+
+https://www.reddit.com/r/Proxmox/comments/p2c0qz/proxmox_causing_high_wear_on_ssd/
+```
+Run iotop -ao (should be available via apt). This will show you what processes are responsible for the most writes, then you can make more informed decisions about how to correct it.
+```
+
+https://gist.github.com/hostberg/86bfaa81e50cc0666f1745e1897c0a56
