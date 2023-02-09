@@ -1,0 +1,25 @@
+---
+title: How to clear all pi-hole logs
+date: 2023-02-09 19:00
+categories: [pi-hole]
+tags: [ssh, logs]
+---
+
+jfb-pihole
+·
+1 yr. ago
+· edited 1 yr. ago
+To The StarsSilver
+ Team
+
+Here's a quick way to create a new empty database.
+
+```
+sudo service pihole-FTL stop
+
+sudo rm /etc/pihole/pihole-FTL.db
+
+sudo service pihole-FTL start
+```
+
+https://www.reddit.com/r/pihole/comments/s7u6ca/comment/htcddvh/?utm_source=share&utm_medium=web2x&context=3
