@@ -22,4 +22,6 @@ sudo rm /etc/pihole/pihole-FTL.db
 sudo service pihole-FTL start
 ```
 
+
+
 https://www.reddit.com/r/pihole/comments/s7u6ca/comment/htcddvh/?utm_source=share&utm_medium=web2x&context=3
