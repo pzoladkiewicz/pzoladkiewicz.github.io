@@ -2,7 +2,7 @@
 title: How to clear all pi-hole logs
 date: 2023-02-09 19:00
 categories: [pi-hole]
-tags: [ssh, logs]
+tags: [ssh,logs]
 ---
 
 jfb-pihole
