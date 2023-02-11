@@ -5,20 +5,17 @@ categories: [pi-hole]
 tags: [ssh,logs]
 ---
 
-jfb-pihole
-·
-1 yr. ago
-· edited 1 yr. ago
-To The StarsSilver
- Team
+**jfb-pihole**</br>
 
 Here's a quick way to create a new empty database.
 
 ```
 sudo service pihole-FTL stop
-
+```
+```
 sudo rm /etc/pihole/pihole-FTL.db
-
+```
+```
 sudo service pihole-FTL start
 ```
 
