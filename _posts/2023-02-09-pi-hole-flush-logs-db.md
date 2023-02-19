@@ -8,9 +8,7 @@ tags: [ssh,logs]
 ***jfb-pihole***
 
 Here's a quick way to create a new empty database.
-
-
-```Shell
+```bash 
 sudo service pihole-FTL stop
 ```
 ```shell
