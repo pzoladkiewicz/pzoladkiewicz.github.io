@@ -9,6 +9,7 @@ tags: [ssh,logs]
 
 Here's a quick way to create a new empty database.
 
+
 ```Shell
 sudo service pihole-FTL stop
 ```
