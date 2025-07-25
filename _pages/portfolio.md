@@ -8,7 +8,10 @@ layout: single                  # domyślny układ strony
 classes: wide      # pełna szerokość, by wygodnie osadzać iframe
 
 ---
-Tu umieszczaj opisy i linki do projektów Power BI.
+Tu prezentuję swoje projekty Power BI:
+- Dashboard sprzedaży: model DAX, wizualizacje KPI, integracja z Python  
+- Case study migracji z Tableau: analiza wydajności, optymalizacja modelu danych  
+- Automatyzacja raportów: skrypty Python, harmonogramy ETL
 
 
 <!-- przykład osadzenia raportu -->
