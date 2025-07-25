@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pl-PL"
 site_theme               : "default"
-title                    : "Paweł Żołądkiewicz | Senior BI Craftsman (1)"
+title                    : "Senior BI Craftsman"
 title_separator          : "-"
 name                     : &name "Your name (2)"
 description              : &description "Tableau Expert | Power BI Growth | Python Automation"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Paweł Żołądkiewicz (3)"
+  name             : "Paweł Żołądkiewicz"
   pronouns         : # example: "she/her"  
-  bio              : "8+ years BI Analytics | Tableau → Power BI Migration Expert"
+  bio              : "8+ years BI Analytics <br> Tableau → Power BI Migration Expert"
   location         : "Warszawa (Warsaw), PL"
   employer         : ""
   uri              : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/pzoladkiewicz"
+  github           : "pzoladkiewicz"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
