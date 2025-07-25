@@ -7,27 +7,23 @@
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
 
+# main links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "About"
+    url: /
     
-  - title: "Portfolio"
+  - title: "Power BI Projects"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
-  - title: "CV"
+  - title: "Tableau Gallery"
+    url: /publications/
+    
+  - title: "Python Automation"
+    url: /teaching/
+    
+  - title: "Learning Journey"
+    url: /talks/
+    
+  - title: "CV/Resume"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
+
